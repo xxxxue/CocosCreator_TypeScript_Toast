@@ -37,6 +37,7 @@ export default class TestController extends cc.Component {
 }
 
 ```
+## 如果游戏打包后,某些平台不支持加载UUID内置资源,你可以将源码改为加载项目中的一个图片资源
 
 ## 🍦如果这个项目对你有帮助, 也可以请作者吃一包辣条🍦
 
